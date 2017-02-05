@@ -11,6 +11,9 @@ namespace GitHub
     [Activity(Label = "GitHub", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
+
+        //GitHubのテストのための変更です
+
         int count = 1;
         //Change
         protected override void OnCreate(Bundle bundle)
