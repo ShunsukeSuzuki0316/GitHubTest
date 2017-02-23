@@ -13,7 +13,7 @@ namespace GitHub
     {
 
         //GitHubのテストのための変更です
-
+        //yyyy/mm/dd 追加　鈴木
         int count = 1;
         //Change
         protected override void OnCreate(Bundle bundle)
