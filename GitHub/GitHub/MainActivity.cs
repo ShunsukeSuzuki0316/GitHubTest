@@ -15,6 +15,7 @@ namespace GitHub
         //GitHubのテストのための変更です
         //yyyy/mm/dd 追加　鈴木
         //yyyy/mm/dd 追加　高田 Mac
+        //yyyy/mm/dd 追加　村野 Win10
         int count = 1;
         //Change
         protected override void OnCreate(Bundle bundle)
