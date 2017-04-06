@@ -13,7 +13,7 @@ namespace GitHub
     {
 
         //GitHubのテストのための変更です
-        //yyyy/mm/dd 追加　鈴木
+        //yyyy/mm/dd 追加　鈴木 123
         //yyyy/mm/dd 追加　高田 Mac
         //yyyy/mm/dd 追加　村野 Win10
         //yyyy/mm/dd 追加　扇原 Win10
